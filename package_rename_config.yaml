@@ -1,0 +1,9 @@
+package_rename_config:
+  android:
+    app_name: Appname
+    package_name: com.company.appname
+
+  ios:
+    app_name: Appname
+    bundle_name: com.company.appname
+    package_name: com.company.appname

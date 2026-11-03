@@ -1,0 +1,1 @@
+dart run package_rename_plus -p "package_rename_config.yaml"
